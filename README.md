@@ -58,3 +58,5 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
+
+Association rules were successfully generated from the employee dataset using the Apriori algorithm .
