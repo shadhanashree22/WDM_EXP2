@@ -54,4 +54,7 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-22 155116" src="https://github.com/user-attachments/assets/b62e87b5-9ab8-4df8-8279-47f968b4a7aa" />
+
+
 ### RESULT: 
